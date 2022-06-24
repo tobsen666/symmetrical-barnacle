@@ -9,6 +9,7 @@ My mood:
 
 My favorite color:
 
-> [COLOR NAME]
+> ...is none of your business!
+
 
 Thank you so much for reading! ☺
