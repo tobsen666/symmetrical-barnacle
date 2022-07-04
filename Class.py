@@ -13,6 +13,7 @@ max.gruss()
 max.set_name('Minann')
 max.gruss()
 
+print(max.name)
 
 class Celsius:
     def __init__(self, temperature = 0):
@@ -25,7 +26,7 @@ human = Celsius(37)
 
 #human.temperature = 37
 
-print(human.temperature)
+
 
 print(int(human.to_fahrenheit()))
 
